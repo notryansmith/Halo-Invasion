@@ -2,20 +2,20 @@ Halo Invasion README
 
 Code Structure:
 halo_invasion.py
-├── INITIALIZATION 
-├── AUDIO SYSTEM 
-├── VISUAL ASSETS 
-├── GAME CLASSES
-│   ├── Bullet 
-│   ├── EnemyBullet 
-│   ├── Player 
-│   ├── Banshee 
-│   └── ZigZagBanshee 
-├── GAME STATES
-│   ├── main_menu() 
-│   ├── game_loop() 
-│   └── game_over_screen() 
-└── MAIN EXECUTION 
+ INITIALIZATION 
+ AUDIO SYSTEM 
+ VISUAL ASSETS 
+ GAME CLASSES
+    Bullet 
+    EnemyBullet 
+    Player 
+    Banshee 
+    ZigZagBanshee 
+ GAME STATES
+    main_menu() 
+    game_loop() 
+    game_over_screen() 
+ MAIN EXECUTION 
 
 Assets Required:
 Audio Files
