@@ -56,7 +56,7 @@ background_menu = pygame.image.load("main_menu_art.jpg").convert()
 background_game = pygame.image.load("game_background_art.jpg").convert()
 bg_y1 = 0
 bg_y2 = -SCREEN_HEIGHT
-bg_scroll_speed = 2
+bg_scroll_speed = 10
 
 font = pygame.font.Font("Halo.ttf", 85)
 title_font = pygame.font.Font("Halo.ttf", 120)
